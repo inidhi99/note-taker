@@ -31,3 +31,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Mock-Up
+![](images/Screen%20Shot%202022-10-28%20at%207.06.59%20PM.png)
+
+## BONUS 
+![](images/Screen%20Shot%202022-10-28%20at%207.07.27%20PM.png)
